@@ -256,6 +256,10 @@ body{
     background-color: #ffea5f;
     margin-top: 20px;
 }
+.loginButton a{
+    text-decoration: none;
+    color: black;
+}
 .signUp p{
     overflow: hidden;
     text-align: center;

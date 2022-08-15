@@ -1,0 +1,361 @@
+body{
+    background: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+/* Navigation Bar */
+
+.navbar1{
+    background-color: white;
+    width: 100%;
+}
+.navBarLink1{
+    color: black;
+}
+#navBarLink1a button{
+    background-color: #ffea5f;
+    color: black;
+    text-align: center;
+}
+#navBarLink1b button{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Shop Container */
+
+.container1{
+    overflow: hidden;
+    background-color: white;
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+/* Promotion Banner */
+
+.col1b a{   
+    text-decoration: none;
+    color: black;
+}
+.row1b-a{
+    background-color:#ffea5f;
+    margin-bottom: 30px;
+}
+.row1b-a img{
+    width: 80%;
+    height: 170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#banner1b-a{
+    font-weight: bold;
+}
+
+/* Shop */
+
+.row1b-c{
+    overflow: hidden;
+    background-color: rgb(239, 237, 237);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.shop-item{
+    background-color: whitesmoke;
+}
+.row1b-c h3{
+    margin-top: 10px;
+    font-weight: 500;
+}
+.row1b-c h4{
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.row1b-c h6{
+    font-weight: 500;
+}
+.row1b-c img{
+    height: auto;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row1b-c button{
+    background-color: #ffea5f;
+    color: black;
+    font-weight: 500;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+/* cart */
+
+.cart-header {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: black;
+}
+
+.cart-column {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin-right: 1.5em;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.cart-row {
+    display: flex;
+}
+
+.cart-item {
+    width: 45%;
+}
+
+.cart-price {
+    width: 20%;
+    font-size: 1.2em;
+    color: black;
+}
+
+.cart-quantity {
+    width: 35%;
+}
+
+.cart-item-title {
+    color: black;
+    margin-left: .5em;
+    font-size: 1.2em;
+}
+
+.cart-item-image {
+    width: 75px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.btn-danger {
+    color: white;
+    background-color: #EB5757;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+}
+
+.btn-danger:hover {
+    background-color: #CC4C4C;
+}
+
+.cart-quantity-input {
+    height: 34px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    color: black;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2em;
+    margin-right: 25px;
+}
+
+.cart-row:last-child {
+    border-bottom: 1px solid black;
+}
+
+.cart-row:last-child .cart-column {
+    border: none;
+}
+
+.cart-total {
+    text-align: end;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.cart-total-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: black;
+    margin-right: 20px;
+}
+
+.cart-total-price {
+    color: black;
+    font-size: 1.1em;
+}
+.orderButton{
+    background-color: #ffea5f;
+    color: black;
+    font-weight: 500;
+}
+
+.orderButton a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Footer */
+
+.container2{
+    overflow: hidden;
+    background-color: #E5C643;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.col2a h1 {
+    margin-top: 100px;
+    overflow: hidden;
+    color: white;
+    font-weight: 900;
+}
+.col2a p{
+    overflow: hidden;
+    color: white;
+    font-weight: 400;
+}
+.col2b input{
+    width: 20%;
+    height: 40px;
+    border: solid 0px;
+    border-radius: 5px;
+}
+.col2c button{
+    overflow: hidden;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    width: 20%;
+    margin-bottom: 30px;
+}
+.container3{
+    overflow: hidden;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.col3b p{
+    color: #8E8E8E;
+    font-weight: 400;
+    font-size: 24;
+    position: relative;
+    right: 25px;
+}
+.col3b i{
+    color: #E5C643;
+    font-size: 50px;
+    position: relative;
+    right: 30px;
+}
+.col3d a{
+    text-decoration: none;
+}
+.col3d h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col3d p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+.col3e a{
+    text-decoration: none;
+}
+.col3e h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col3e p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+.col3f{
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+.col3f a{
+    text-decoration: none;
+}
+.col3f h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col3f p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

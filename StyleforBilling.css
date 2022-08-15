@@ -1,0 +1,169 @@
+body{
+    background: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+/* Navigation */
+
+.navbar1{
+    background-color: white;
+    width: 100%;
+}
+.navBarLink1{
+    color: black;
+}
+#navBarLink1a button{
+    background-color: #ffea5f;
+    color: black;
+    text-align: center;
+}
+#navBarLink1b button{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Form */
+
+.container1{
+    background-color: rgb(239, 237, 237);
+    padding: 20px;
+}
+.container1 a{
+    text-decoration: none;
+    color: black;
+}
+.breadcrumb-item{
+    color: black;
+}
+.container2{
+    margin-top: 50px;
+}
+.container2 i{
+    font-size: 15px;
+}
+.container2 button{
+    background-color: #ffea5f;
+    width: 100%;
+    margin-top: 30px;
+    font-weight: 500;
+}
+.container2 a{
+    text-decoration: none;
+    color: black;
+}
+.container2 h1{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+}
+.container2 p{
+    text-align: center;
+    font-weight: 400;
+    color: black;
+}
+ 
+/* Footer */
+
+.container3{
+    background-color: #E5C643;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.col3a h1 {
+    margin-top: 100px;
+    overflow: hidden;
+    color: white;
+    font-weight: 900;
+}
+.col3a p{
+    overflow: hidden;
+    color: white;
+    font-weight: 400;
+}
+.col3b input{
+    width: 20%;
+    height: 40px;
+    border: solid 0px;
+    border-radius: 5px;
+}
+.col3c button{
+    overflow: hidden;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    width: 20%;
+    margin-bottom: 30px;
+}
+.container4{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.col4b p{
+    color: #8E8E8E;
+    font-weight: 400;
+    font-size: 24;
+    position: relative;
+    right: 25px;
+}
+.col4b i{
+    color: #E5C643;
+    font-size: 50px;
+    position: relative;
+    right: 30px;
+}
+.col4d a{
+    text-decoration: none;
+}
+.col4d h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col4d p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+.col4e a{
+    text-decoration: none;
+}
+.col4e h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col4e p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+.col4f{
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+.col4f a{
+    text-decoration: none;
+}
+.col4f h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col4f p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}

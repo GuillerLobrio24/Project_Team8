@@ -1,0 +1,236 @@
+body{
+    background: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+/* Navigation Bar */
+
+.navbar1{
+    background-color: white;
+    width: 100%;
+}
+.navBarLink1{
+    color: black;
+}
+#navBarLink1a button{
+    background-color: #ffea5f;
+    color: black;
+    text-align: center;
+}
+#navBarLink1b button{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Main Container */
+
+.container1{
+    margin-top: 100px;
+    overflow: hidden;
+}
+.col1a-a{
+    background-color: rgb(239, 237, 237);
+    padding: 50px;
+    border-radius: 20px;
+}
+.col1a-a h1{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+}
+.col1a-a p{
+    text-align: justify;
+    font-weight: 500;
+    color: black;
+}
+.col1b-a{
+    background-color: #ffea5f;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.col1b-a i{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+.col1b-a h3{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+}
+.col1b-a p{
+    text-align: justify;
+    font-weight: 500;
+    color: black;
+}
+.col1b-b{
+    background-color: #ffea5f;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.col1b-b i{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+.col1b-b h3{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+}
+.col1b-b p{
+    text-align: justify;
+    font-weight: 500;
+    color: black;
+}
+
+/* Our Team */
+
+.container2{
+    margin-top: 10%;
+    overflow: hidden;
+}
+.container2 h1{
+    font-weight: 900;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.container2 p{
+    font-weight: 500;
+    color: black;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.row2a-a{
+    width: auto;
+    text-align: center;
+}
+.row2a-a1{
+    background: #fff;
+    margin-bottom: 50px;
+    color: #8e8b8b;  
+} 
+.row2a-a1 h3{
+    color: #8e8b8b;
+    font-size: 26px;
+}
+.row2a-a1 p.position{
+    color: #e2d521;
+    font-weight: 500;
+} 
+.devImage{
+    margin-bottom: 50px;
+}
+.row2a-a .row2a-a1 .devImage img{
+    border-radius: 1000px;
+}
+
+
+/* Footer */
+
+.container3{
+    background-color: #E5C643;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.col3a h1 {
+    margin-top: 100px;
+    overflow: hidden;
+    color: white;
+    font-weight: 900;
+}
+.col3a p{
+    overflow: hidden;
+    color: white;
+    font-weight: 400;
+}
+.col3b input{
+    width: 20%;
+    height: 40px;
+    border: solid 0px;
+    border-radius: 5px;
+}
+.col3c button{
+    overflow: hidden;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    width: 20%;
+    margin-bottom: 30px;
+}
+.container4{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.col4b p{
+    color: #8E8E8E;
+    font-weight: 400;
+    font-size: 24;
+    position: relative;
+    right: 25px;
+}
+.col4b i{
+    color: #E5C643;
+    font-size: 50px;
+    position: relative;
+    right: 30px;
+}
+.col4d a{
+    text-decoration: none;
+}
+.col4d h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col4d p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+.col4e a{
+    text-decoration: none;
+}
+.col4e h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col4e p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+.col4f{
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+.col4f a{
+    text-decoration: none;
+}
+.col4f h6{
+    color: white;
+    font-weight: 400;
+    font-size: 24;
+    text-align: left;
+    overflow: hidden;
+}
+.col4f p{
+    color: #8E8E8E;
+    text-align: left;
+    overflow: hidden;
+}
+

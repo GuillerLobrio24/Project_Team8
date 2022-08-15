@@ -1,0 +1,31 @@
+SMARTPHONE AND ACCESSORIES SHOP
+
+DATA GATHERING
+
+data and elements includes :
+
+SmartPhones
+-details or description about phone
+(phone specifications)
+-manufacturer
+(smartphones that are only available here in the philippines)
+-updated price
+(we can see some updated price on each smartphones quarterly)
+-images and videos in each smartphones
+(files should be declare as :
+Manufacturer Name, Smartphone Model, Network Compatibility
+for ex : Poco M4 Pro 5g)
+
+Accessories
+-details or description about specific accessory
+(specifications)
+-manufacturer
+(that are only available here in the philippines)
+-updated price
+(we can see some updated price on each quarterly)
+-compatibility
+(we will define each accessory compatibility to each smartphones)
+
+
+
+

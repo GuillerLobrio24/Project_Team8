@@ -196,6 +196,9 @@ body{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.col5b h3, h4{
+    display: inline;
+}
 .col5b h4{
     overflow: hidden;
     padding-top: 10px;
@@ -217,6 +220,9 @@ body{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.col5c h3, h4{
+    display: inline;
+}
 .col5b .card{
     padding-top: 20px;
 }
@@ -234,6 +240,9 @@ body{
     padding-left: 10px;
     color: #7F7F7F;
     font-size: 24;
+}
+.shop-item h3, h4{
+    display: inline;
 }
 
 /* Modal */

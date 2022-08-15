@@ -90,6 +90,9 @@ body{
     width: 100%;
     margin-bottom: 50px;
 }
+.shop-item h3, h4{
+    display: inline;
+}
 
 /* cart */
 
